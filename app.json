@@ -1,0 +1,6 @@
+{
+  "name": "Simple server",
+  "description": "Server with Setry logging",
+  "image": "heroku/python",
+  "keywords": ["python", "bottle" ],
+}
